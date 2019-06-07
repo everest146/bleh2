@@ -1,5 +1,3 @@
-_extends: bleh
-
 labels:
   - name: splat
     color: 336699
