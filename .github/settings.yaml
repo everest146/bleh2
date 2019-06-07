@@ -1,4 +1,7 @@
 labels:
-  - name: splat
+  - name: bug
+    color: CC0000
+    description: Ahhhhh! It's a spider!
+  - name: feature
     color: 336699
-    description: why Why WHY!!?!?!??!
+    description: Don't worry, this repo comes with a fly swatter
